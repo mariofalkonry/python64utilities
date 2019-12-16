@@ -1,0 +1,9 @@
+entity,signal,tag
+Compressor1,InletTemp,10272TI.PV
+Compressor1,InletPress,10272PI.PV
+Compressor2,InletTemp,20272TI.PV
+Compressor2,InletPress,20272PI.PV
+Compressor1,MotorSpeed,10272SI.PV
+Compressor1,FilterDiffPress,90272PDI.PV
+Compressor2,FilterDiffPress,90272PDI.PV
+Compressor1,Flow,10272FI.PV
